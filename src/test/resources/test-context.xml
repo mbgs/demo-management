@@ -10,9 +10,9 @@
 
 	<!-- Scans within the base package of the application for @Components to 
 		configure as beans -->
-	<import resource="test-db.xml" />
+<!-- 	<import resource="test-db.xml" />
 
 	<tx:annotation-driven />
-	<context:component-scan base-package="fds.demo" />	
+	<context:component-scan base-package="fds.demo" />	 -->
 
 </beans>
